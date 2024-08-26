@@ -1,0 +1,27 @@
+[submodule "DeepLearning"]
+	path = DeepLearning
+	url = .\\DeepLearning\\
+[submodule "Dive-Into-Deep-Learning-PyTorch-PDF"]
+	path = Dive-Into-Deep-Learning-PyTorch-PDF
+	url = .\\Dive-Into-Deep-Learning-PyTorch-PDF\\
+[submodule "hugging-audio"]
+	path = hugging-audio
+	url = .\\hugging-audio\\
+[submodule "lihang-code"]
+	path = lihang-code
+	url = .\\lihang-code\\
+[submodule "machine_learning_beginner"]
+	path = machine_learning_beginner
+	url = .\\machine_learning_beginner\\
+[submodule "machine-learning-deep-learning-notes"]
+	path = machine-learning-deep-learning-notes
+	url = .\\machine-learning-deep-learning-notes\\
+[submodule "pumpkin-book"]
+	path = pumpkin-book
+	url = .\\pumpkin-book\\
+[submodule "simplified-deeplearning"]
+	path = simplified-deeplearning
+	url = .\\simplified-deeplearning\\
+[submodule "thorough-pytorch"]
+	path = thorough-pytorch
+	url = .\\thorough-pytorch\\
